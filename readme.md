@@ -1,6 +1,6 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://love-yennhi205.github.io/love-yennhi205
+Link Demo: https://love-yennhi205.github.io/
 
 **TELEGRAM**: [t.me/DangBlue)
 
