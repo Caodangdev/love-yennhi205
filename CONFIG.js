@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "HELO bé iu, anh có điều muốn nói. </br> Anh và bé cùng bỏ qua những chuyện không vui trong quá khứ cùng nhau yêu lại nhé ^^",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Hãy trả lời một cách thật lòng nhé. Nếu Nhi im lặng và thoát ra thì tức là NHI đã ĐỒNG Ý làm vợ của anh ehehe.",
+  buttonYes: "Nhi đồng ý ạ",
+  buttonNo: "ĐÉOOOOOOOOOOOO",
+  titleModar: "Cảm ơn embe nhaaa.",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Cảm ơn bé đã cho anh một cơ hội để anh có thể ở bên cạnh, che chở và yêu thương NHI. </br> Anh biết đôi khi tính còn hơi trẻ con đã làm cho bé buồn khóc vì anh thì anh cũng xin lỗi bé nhiều. Mong rằng khoảng thời gian sắp tới 2 đứa sẽ dịu dàng , yêu thương nhau nhiều như lúc ban đầu, anh hi vọng là vậy <3  </br> CHO ANH CHỊCH BÉ CÁI NHA =))</br> Love you <3",
 };
